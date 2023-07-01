@@ -45,9 +45,9 @@ namespace ArraysAndLists
                 Console.WriteLine(evens[i]);
             }
 
-            {
-            
-            }
+
+
+
 
 
 
@@ -84,10 +84,10 @@ namespace ArraysAndLists
 
 
         }
-           
-                                                 
-                              
-            
+
+
+
+
     }
 
 
@@ -95,5 +95,5 @@ namespace ArraysAndLists
 
 
 }
-    
+
 
